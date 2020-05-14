@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="2020-05-07-HTTP-Sverlet开发-博客系统">
+    <output-path>$PROJECT_DIR$/out/artifacts/2020_05_07_HTTP_Sverlet_</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="2020-05-07-HTTP-Sverlet开发-博客系统" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="mysql-connector-java-5.1.47" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="2020-05-07-HTTP-Sverlet开发-博客系统/web/Web" />
+    </root>
+  </artifact>
+</component>
